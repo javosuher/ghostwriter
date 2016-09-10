@@ -1,6 +1,6 @@
 # Ghostwriter
 
-Enhanced port of the Ghost "[ghostwriter](https://github.com/roryg/ghostwriter)" theme to the [Hugo](http://gohugo.io) site generator.
+Enhanced port of the Ghost "[ghostwriter](https://github.com/roryg/ghostwriter)" theme to the [Hugo](http://gohugo.io) site generator. Created by [Juraj Bubniak](https://github.com/jbub) and forked from his [repository](https://github.com/jbub/ghostwriter).
 
 ## Installation
 
@@ -34,13 +34,14 @@ disqusShortname = "XXX"
 
 [Params]
     intro = true
-    headline = "My headline"
-    description = "My description"
     github = "https://github.com/XXX"
     linkedin = "https://linkedin.com/in/XXX/"
     gplus = "https://google.com/+XXX"
     twitter = "https://twitter.com/XXX"
     stackoverflow = "http://stackoverflow.com/users/XXX/YYY"
+    completeTitle = "<span>Ghost</span>writer example Web<span>site</span>"
+    headline = "Ghostwriter example"
+    description = "Ghostwriter example description"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"

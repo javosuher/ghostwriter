@@ -60,6 +60,12 @@
                         {{ end }}
                     </div>
 
+                    {{ if .Site.Params.completeTitle }}
+                        <div class="site-completeTitle">
+                            <p class="completeTitle">{{ .Site.Params.completeTitle | markdownify }}</p>
+                        </div>
+                    {{ end }}
+
                     <ul class="site-nav">
                         {{ partial "navigation.html" . }}
                     </ul>

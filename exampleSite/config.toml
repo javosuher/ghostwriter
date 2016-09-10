@@ -15,13 +15,14 @@ googleAnalytics = "XXX"
 
 [Params]
     intro = true
-    headline = "Ghostwriter example"
-    description = "Ghostwriter example description"
     github = "https://github.com/XXX"
     linkedin = "https://linkedin.com/in/XXX/"
     gplus = "https://google.com/+XXX"
     twitter = "https://twitter.com/XXX"
     stackoverflow = "http://stackoverflow.com/users/XXX/YYY"
+    completeTitle = "<span>Ghost</span>writer example Web<span>site</span>"
+    headline = "Ghostwriter example"
+    description = "Ghostwriter example description"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
