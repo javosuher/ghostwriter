@@ -8,7 +8,7 @@ Inside the folder of your Hugo site run:
 
     $ mkdir themes
     $ cd themes
-    $ git clone https://github.com/jbub/ghostwriter
+    $ git clone https://github.com/javosuher/ghostwriter
 
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
