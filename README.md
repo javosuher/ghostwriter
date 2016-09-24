@@ -34,6 +34,7 @@ disqusShortname = "XXX"
 
 [Params]
     intro = true
+    icon = "img/web-icon.png"
     github = "https://github.com/XXX"
     linkedin = "https://linkedin.com/in/XXX/"
     gplus = "https://google.com/+XXX"
